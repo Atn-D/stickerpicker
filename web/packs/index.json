@@ -1,6 +1,7 @@
 {
   "packs": [
-    "realpuuung.json"
+    "realpuuung.json",
+    "lovepuuung.json"
   ],
   "homeserver_url": "https://matrix.kher.nl"
 }
