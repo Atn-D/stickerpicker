@@ -6,7 +6,8 @@
     "waddles_pig.json",
     "Bender.json",
     "Totoro.json",
-    "HaroldBest.json"
+    "HaroldBest.json",
+    "PikachuSprites.json"
   ],
   "homeserver_url": "https://matrix.kher.nl"
 }
